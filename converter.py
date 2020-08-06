@@ -8,7 +8,7 @@ Created on Fri Jun 19 12:58:15 2020
 # the appropriate si unit for that measurement. Then it's converted
 # into whatever unit is requested.
 
-# This converter is not intended to stand alone. I is intended to 
+# This converter is not intended to stand alone. It is intended to 
 # work with an equation solver. So features that are not used, such
 # as including unit name and the dimention measured in the Unit class
 # are put there to help facilitate future functions.
